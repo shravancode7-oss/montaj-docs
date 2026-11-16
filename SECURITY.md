@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please do not open a public issue for a security problem. Use GitHub's private vulnerability reporting on this repository (Security tab, "Report a vulnerability"). Include the affected version or commit, steps to reproduce, and the impact you expect. You should get a first reply within five working days.
+Please do not open a public issue for a security problem. Use GitHub's private vulnerability reporting on the public documentation repository, [montaj-docs](https://github.com/shravancode7-oss/montaj-docs/security/advisories/new). Include the affected version or commit, steps to reproduce, and the impact you expect. You should get a first reply within five working days.
 
 ## Supported versions
 
